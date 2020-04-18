@@ -1,3 +1,2 @@
 Docker
 Kubernetes
-AWS
